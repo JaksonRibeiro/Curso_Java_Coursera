@@ -1,31 +1,53 @@
-# ☕ Java Programming: Coursera Specialization
+# ☕ Java Programming and Software Engineering Fundamentals
+### Especialização da Duke University | Coursera
 
-Repositório dedicado ao estudo da linguagem **Java**, focado em Orientação a Objetos, Estrutura de Dados e Resolução de Problemas.
-
----
-
-## 📖 Sobre o Curso
-Este repositório contém os desafios e projetos desenvolvidos durante a especialização do Coursera. O objetivo é dominar a sintaxe do Java e aplicar boas práticas de desenvolvimento.
-
-## 🛠️ Tecnologias e Ferramentas
-* **Linguagem:** Java (JDK 17+)
-* **Ambiente:** GitHub Codespaces / VS Code
-* **Conceitos:** Variáveis, Loops, POO (Classes e Objetos), Listas e Algoritmos de Busca.
+Este repositório contém meus projetos e estudos da especialização em Java da Duke University. O foco é aprender a programar e pensar como um engenheiro de software.
 
 ---
 
-## 📂 Estrutura de Estudos
-* **[Modulo_01_Logica](./Modulo_01/)**: Introdução à sintaxe e tipos primitivos.
-* **[Modulo_02_POO](./Modulo_02/)**: Programação Orientada a Objetos e Encapsulamento.
-* **[Projetos_Finais](./Projetos/)**: Sistemas completos desenvolvidos no curso.
+## 📚 Estrutura da Especialização
+
+O programa é dividido em 5 cursos principais. Conforme eu avanço no ônibus e em casa, vou atualizando meu progresso aqui:
+
+### 1. Programming Foundations with JavaScript, HTML and CSS
+*Foco: Lógica e pensamento computacional básico.*
+- [ ] Exercícios de Manipulação de Imagens
+- [ ] Projeto: Filtros de Imagem Web
+
+### 2. Java Programming: Solving Problems with Software
+*Foco: Sintaxe Java, uso de bibliotecas (Duke Libraries) e análise de dados (CSV).*
+- [ ] Análise de Dados de Furacões
+- [ ] Exportação de Dados de Exportação de Países
+- [ ] Projeto: Analisador de Dados de Genes (DNA)
+
+### 3. Java Programming: Arrays, Lists, and Structured Data
+*Foco: Estruturas de dados, criptografia e análise de logs.*
+- [ ] Implementação da Cifra de César (Criptografia)
+- [ ] Quebra de senhas e análise de frequência
+- [ ] Projeto: Analisador de Logs de Servidor Web
+
+### 4. Java Programming: Principles of Software Design
+*Foco: Algoritmos de busca, ordenação e interfaces (Design Patterns).*
+- [ ] Algoritmos de Ordenação (Selection Sort/Bubble Sort)
+- [ ] Gerador de Frases Aleatórias (Modelos de Markov)
+- [ ] Projeto: Filtro de Terremotos (Earthquake Data)
+
+### 5. Java Programming: Build a Recommendation System
+*Foco: Capstone Project (O projeto final).*
+- [ ] Desenvolvimento de um Sistema de Recomendação de Filmes (Estilo Netflix)
 
 ---
 
-## ✍️ Progresso
-- [x] Configuração do Ambiente (GitHub Codespaces)
-- [ ] Módulo 1: Sintaxe Básica
-- [ ] Módulo 2: Classes e Objetos
-- [ ] Projeto Final
+## 🛠️ Tecnologias Utilizadas
+* **Linguagem:** Java 8+
+* **Ambiente:** GitHub Codespaces / BlueJ (indicado pela Duke)
+* **Controle de Versão:** Git & GitHub
 
 ---
-> "Escrever código é como escrever um livro: o primeiro rascunho nunca é perfeito, mas a revisão o torna arte."
+
+## ✍️ Notas de Estudo (Duke Journey)
+> "A programação não é sobre o que você sabe, mas sobre o que você pode descobrir."
+
+---
+**Estudante:** Jakson Ribeiro
+**Instituição:** Sistemas de Informação
